@@ -50,6 +50,7 @@
 ###
 
 <picture>
+  <script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaksanaDevs/LaksanaDevs/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaksanaDevs/LaksanaDevs/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LaksanaDevs/LaksanaDevs/output/pacman-contribution-graph.svg">
